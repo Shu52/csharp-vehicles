@@ -1,0 +1,11 @@
+/home/shu/workspace/csharp/exercises/vehicles/bin/Debug/netcoreapp2.1/vehicles.deps.json
+/home/shu/workspace/csharp/exercises/vehicles/bin/Debug/netcoreapp2.1/vehicles.runtimeconfig.json
+/home/shu/workspace/csharp/exercises/vehicles/bin/Debug/netcoreapp2.1/vehicles.runtimeconfig.dev.json
+/home/shu/workspace/csharp/exercises/vehicles/bin/Debug/netcoreapp2.1/vehicles.dll
+/home/shu/workspace/csharp/exercises/vehicles/bin/Debug/netcoreapp2.1/vehicles.pdb
+/home/shu/workspace/csharp/exercises/vehicles/obj/Debug/netcoreapp2.1/vehicles.csprojAssemblyReference.cache
+/home/shu/workspace/csharp/exercises/vehicles/obj/Debug/netcoreapp2.1/vehicles.csproj.CoreCompileInputs.cache
+/home/shu/workspace/csharp/exercises/vehicles/obj/Debug/netcoreapp2.1/vehicles.AssemblyInfoInputs.cache
+/home/shu/workspace/csharp/exercises/vehicles/obj/Debug/netcoreapp2.1/vehicles.AssemblyInfo.cs
+/home/shu/workspace/csharp/exercises/vehicles/obj/Debug/netcoreapp2.1/vehicles.dll
+/home/shu/workspace/csharp/exercises/vehicles/obj/Debug/netcoreapp2.1/vehicles.pdb
